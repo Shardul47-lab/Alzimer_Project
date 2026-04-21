@@ -1,2 +1,2 @@
 ﻿# Alzimer_Project
-<img width="128" height="128" alt="31 (56)" src="https://github.com/user-attachments/assets/e7d1af39-44dc-4c29-9c80-dfb72345bace" />
+<body>Hi! I am <h1>Shardul</h1> </body>
